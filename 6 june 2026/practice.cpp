@@ -2,7 +2,7 @@
 // the concept of frequency array and frequency in 
 // hash maps and also learnt about hash sets
 
-// 6 array problems
+// 6 string problems
 
 // leetcode 242. Valid Anagram
 // (initial approach)
